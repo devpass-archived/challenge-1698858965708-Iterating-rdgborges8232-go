@@ -1,0 +1,2 @@
+## Iterating Over Maps in Go Challenge
+In this challenge, we're exploring how to iterate over maps in Go. Your task is to create a function called `PrintMap` that takes a map `employeeSalaries` as the input and prints each employee's name and salary in the format `Name: Salary`.
